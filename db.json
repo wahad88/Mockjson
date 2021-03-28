@@ -1,0 +1,40 @@
+{
+	"stanza": [
+		{
+			"id": 1,
+			"name": "Stanza 1",
+			"position": "Piano Primo"
+		},
+		{
+			"id": 2,
+			"name": "Stanza 2",
+			"position": "Piano Primo"
+		},
+		{
+			"id": 3,
+			"name": "Stanza 3",
+			"position": "Piano Primo"
+		},
+		{
+			"id": 4,
+			"name": "Stanza 4",
+			"position": "Piano Secondo"
+		},
+		{
+			"id": 5,
+			"name": "Stanza 5",
+			"position": "Piano Secondo"
+		},
+		{
+			"id": 6,
+			"name": "Stanza 1",
+			"position": "Piano Secondo"
+		},
+		{
+			"id": 7,
+			"name": "Stanza 7",
+			"position": "Piano Terzo"
+		},
+	],
+}
+
