@@ -1,4 +1,6 @@
-[
+  
+{
+	"stanza": [
 		{
 			"id": 1,
 			"name": "Stanza 1",
@@ -34,5 +36,6 @@
 			"name": "Stanza 1",
 			"position": "Piano Primo"
 		}
-]
+	]
+}
 
