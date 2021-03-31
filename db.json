@@ -1,7 +1,7 @@
     
   
 {
-		"stanza usata": [
+		"stanza_usata": [
 			{
 				"id": 1,
 				"name": "Stanza 1",
@@ -38,7 +38,7 @@
 				"position": "Piano Terzo"
 			}
 		],
-		"stanza igienizzata": [
+		"stanza_igienizzata": [
 				{
 					"id": 8,
 					"name": "Stanza 8",
