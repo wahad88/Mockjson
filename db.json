@@ -1,76 +1,74 @@
-    
-  
 {
 		"stanza_usata": [
 			{
-				"id": 1,
+				"id": "1",
 				"name": "Stanza 1",
 				"position": "Piano Primo"
 			},
 			{
-				"id": 2,
+				"id": "2",
 				"name": "Stanza 2",
 				"position": "Piano Primo"
 			},
 			{
-				"id": 3,
+				"id": "3",
 				"name": "Stanza 3",
 				"position": "Piano Primo"
 			},
 			{
-				"id": 4,
+				"id": "4",
 				"name": "Stanza 4",
 				"position": "Piano Secondo"
 			},
 			{
-				"id": 5,
+				"id": "5",
 				"name": "Stanza 5",
 				"position": "Piano Secondo"
 			},
 			{
-				"id": 6,
+				"id": "6",
 				"name": "Stanza 6",
 				"position": "Piano Terzo"
 			},
 			{
-				"id": 7,
+				"id": "7",
 				"name": "Stanza 1",
 				"position": "Piano Terzo"
 			}
 		],
 		"stanza_igienizzata": [
 				{
-					"id": 8,
+					"id": "8",
 					"name": "Stanza 8",
 					"position": "Piano Primo"
 				},
 				{
-					"id": 9,
+					"id": "9",
 					"name": "Stanza 9",
 					"position": "Piano Primo"
 				},
 				{
-					"id": 10,
+					"id": "10",
 					"name": "Stanza 10",
 					"position": "Piano Primo"
 				},
 				{
-					"id": 11,
+					"id": "11",
 					"name": "Stanza 11",
 					"position": "Piano Secondo"
 				},
 				{
-					"id": 12,
+					"id": "12",
 					"name": "Stanza 12",
 					"position": "Piano Secondo"
 				},
 				{
-					"id": 13,
+					"id": "13",
 					"name": "Stanza 13",
 					"position": "Piano Terzo"
 				},
 				{
-					"id": 14,
+					"id": "14",
 					"name": "Stanza 14",
 					"position": "Piano Terzo"
 				}
